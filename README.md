@@ -1,5 +1,4 @@
 # AutoDeleteClass
-Automatically delete class files after a program finishes
 **Language:** Java
 
 **Date Completed:** April 10th, 2017
@@ -8,11 +7,12 @@ Automatically delete class files after a program finishes
 
 **Reading the code:** Open with any text editor
 
-**Description:** One player game of Blackjack/Game of 21 created in C++
+**Description:** Automatically delete class files after a program finishes
 
-**Background:** Created to deal with a series of errors that resulted from undeleted class files during testing phases. Used to prevent class file erorrs as well as delete class files to abide to UOttawa regultions to hand in assignments.
+**Background:** Created to deal with a series of errors that resulted from undeleted class files during testing phase. Used to prevent class file erorrs as well as delete class files to abide to UOttawa regultions to hand in assignments.
 
 **Files included:**
 * DeleteClass.java  - Main Program
 * README.md - Instructions
+* docs - javadocs
 
